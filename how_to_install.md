@@ -87,11 +87,3 @@
 1. 下载安装包：https://git-scm.com/download/win
 ![](imgs/download_git.png)
 2. 安装：按照推荐/默认选项一步一步往下走即可。
-
-## 6 安装 GitHub Desktop
-1. 下载安装包：https://desktop.github.com/download/
-![](imgs/download_GitHub-desktop.png)
-2. 安装：按照推荐/默认选项一步一步往下走即可。
-3. 下载汉化包：https://github.com/robotze/GithubDesktopZhTool
-![](imgs/download_GitHub-desktop_Chinese.png)
-4. 安装：解压zip，再解压里面的zip，，然后就会看到exe文件，直接打开,点击汉化即可。
